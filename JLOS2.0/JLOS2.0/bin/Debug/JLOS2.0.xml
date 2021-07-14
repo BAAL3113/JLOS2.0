@@ -1,0 +1,301 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+JLOS2.0
+</name>
+</assembly>
+<members>
+<member name="T:InventoryManagementSystem.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:InventoryManagementSystem.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:InventoryManagementSystem.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:InventoryManagementSystem.My.Resources.Resources.lock">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:InventoryManagementSystem.My.Resources.Resources.logout">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbautonumberDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbitemsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbpersonaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbproveedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbsettingsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbstock_in_outDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbstock_returnDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbtransaccionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbusuarioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbvendedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbvFINorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbautonumberRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbitemsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbpersonaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbproveedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbsettingsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbstock_in_outRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbstock_returnRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbtransaccionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbusuarioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbvendedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbvFINorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbautonumberRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbitemsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbpersonaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbproveedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbsettingsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbstock_in_outRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbstock_returnRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbtransaccionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbusuarioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbvendedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSet.tbvFINorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSetTableAdapters.tbautonumberTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSetTableAdapters.tbitemsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSetTableAdapters.tbpersonaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSetTableAdapters.tbproveedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSetTableAdapters.tbsettingsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSetTableAdapters.tbstock_in_outTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSetTableAdapters.tbstock_returnTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSetTableAdapters.tbtransaccionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSetTableAdapters.tbusuarioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSetTableAdapters.tbvendedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSetTableAdapters.tbvFINorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:InventoryManagementSystem.JLOS2DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(InventoryManagementSystem.JLOS2DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:InventoryManagementSystem.JLOS2DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(InventoryManagementSystem.JLOS2DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:InventoryManagementSystem.JLOS2DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(InventoryManagementSystem.JLOS2DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:InventoryManagementSystem.JLOS2DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:InventoryManagementSystem.JLOS2DataSetTableAdapters.TableAdapterManager.UpdateAll(InventoryManagementSystem.JLOS2DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:InventoryManagementSystem.JLOS2DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
